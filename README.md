@@ -8,3 +8,4 @@
 ## Запуск
 1. Сервер: `cd backend && cp .env.example .env && docker compose up --build`
 2. Клієнт: відкрийте `android/` в Android Studio, запустіть на емуляторі
+# podcast-app
